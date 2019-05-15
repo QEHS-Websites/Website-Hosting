@@ -7,6 +7,7 @@ Instructions to Host Websites
 # To Include
 
 Hosting a Website GitHub
+- See https://pages.github.com/
 
 Repository: [name].github.io
 
